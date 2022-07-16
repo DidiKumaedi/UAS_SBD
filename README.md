@@ -10,6 +10,8 @@ Matkul  : Sistem Basis Data
 
 Ujian Akhir Semester
 
+# Link Youtube : https://youtu.be/OxFJKu20um0
+
 Modul data pasien
 
 ![image](https://user-images.githubusercontent.com/101849655/179358721-299eefc5-a02b-40be-83bd-560525a1a53e.png)
